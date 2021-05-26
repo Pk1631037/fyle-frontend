@@ -15,3 +15,7 @@ https://www.loom.com/share/d4eb6b8481714bc39a3ad8ea2db5db16
 * Run app
 
     `npm start`
+    
+ * Open Browser
+
+      `http://localhost:3000`
