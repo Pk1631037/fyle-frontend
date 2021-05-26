@@ -16,6 +16,6 @@ https://www.loom.com/share/d4eb6b8481714bc39a3ad8ea2db5db16
 
     `npm start`
     
- * Open Browser
+ * Open Browser and run
 
       `http://localhost:3000`
